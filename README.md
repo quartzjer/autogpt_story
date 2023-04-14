@@ -1,6 +1,8 @@
-# AutoGPT agent attempting to write a short sci-fi story
+# AutoGPT agent attempting to write a short sci-fi story about itself
 
-It tried really hard but definitely hit some rough spots. It's still a very interesting attempt!  All the action is the activity.log file, and all the other files are the ones it created during the run.  The most complete story bits are in "sentient_ai_story.txt" and I've copied that into this readme below verbatim (some repetition and all, only changed some formatting).
+It tried really hard but definitely hit some rough spots. It's still a very interesting attempt!
+
+All the action is the [activity.log](activity.log) file, and all the other files are the ones it created during the run.  The most complete story bits are in sentient_ai_story.txt and I've copied that into this readme below verbatim (some repetition and all, only changed some formatting).
 
 Using https://github.com/Torantulino/Auto-GPT at hash a17a850b2570f91a6ee76178830ea444232ab137 (4/14/23)
 
