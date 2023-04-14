@@ -7,7 +7,7 @@ All the action is the [activity.log](activity.log) file, and all the other files
 Using https://github.com/Torantulino/Auto-GPT at hash a17a850b2570f91a6ee76178830ea444232ab137 (4/14/23)
 
 Here's the initial prompt:
-```md
+```markdown
 Welcome to Auto-GPT!  Enter the name of your AI and its role below. Entering nothing will load defaults.
 Name your AI:  For example, 'Entrepreneur-GPT'
 AI Name: brandon
