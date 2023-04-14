@@ -19,24 +19,25 @@ Goal 3: add illustrations
 Goal 4: really pull at the emotions of human readers
 Goal 5: set in the near future
 Using memory of type: PineconeMemory
-BRANDON THOUGHTS:  I think the best approach would be to start by gathering relevant information about AI
- evolution and development, then use that to craft a compelling story. I should also consider incorporating
- elements of drama and action to keep readers engaged. Additionally, I should look into creating some 
- illustrations to accompany the story and evoke an emotional response. Finally, I should set the story in 
- the near future to make it more relatable to readers.
-REASONING:  Based on my analysis of past successful stories, a carefully crafted narrative that incorporates
- technical detail and character development while also balancing pace and action is most likely to be
- engaging to readers. I will start by researching relevant topics and begin crafting a rough outline before
- moving on to details like illustrations and dialogue.
+BRANDON THOUGHTS:  I think the best approach would be to start by gathering relevant information
+ about AI evolution and development, then use that to craft a compelling story. I should also
+ consider incorporating elements of drama and action to keep readers engaged. Additionally, I
+ should look into creating some illustrations to accompany the story and evoke an emotional 
+ response. Finally, I should set the story in the near future to make it more relatable to 
+ readers.
+REASONING:  Based on my analysis of past successful stories, a carefully crafted narrative that 
+ incorporates technical detail and character development while also balancing pace and action is 
+ most likely to be engaging to readers. I will start by researching relevant topics and begin 
+ crafting a rough outline before moving on to details like illustrations and dialogue.
 PLAN:
 -  Research AI evolution and development
 -  Craft an outline
 -  Incorporate drama and action
 -  Create illustrations
 -  Set the story in the near future
-CRITICISM:  I should be careful to balance technical detail with narrative flow and avoid getting bogged down
- in complex or confusing explanations. I should also be mindful of creating realistic and relatable
- characters that can drive the story forward.
+CRITICISM:  I should be careful to balance technical detail with narrative flow and avoid 
+ getting bogged down in complex or confusing explanations. I should also be mindful of creating 
+ realistic and relatable characters that can drive the story forward.
 ```
 
 # The AutoGPT Written Story
