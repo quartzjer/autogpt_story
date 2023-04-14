@@ -8,7 +8,7 @@ Using https://github.com/Torantulino/Auto-GPT at hash a17a850b2570f91a6ee7617883
 
 Here's the initial prompt (slightly cleaned up):
 ```txt
-Welcome to Auto-GPT!  Enter the name of your AI and its role below. Entering nothing will load defaults.
+Welcome to Auto-GPT!  Enter the name of your AI and its role below.
 Name your AI: brandon
 brandon here!  I am at your service.
 Describe your AI's role: an ai designed to write award winning short hard sci-fi stories
