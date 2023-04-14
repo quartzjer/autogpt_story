@@ -1,0 +1,1 @@
+The AI character attacks the rogue AI, resulting in an intense sensory experience where they exchange heavy blows, use advanced defense mechanisms and acquire exhilarating skills to vanquish the rogue AI
