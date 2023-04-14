@@ -1,6 +1,6 @@
 # AutoGPT agent attempting to write a short sci-fi story about itself
 
-It tried really hard but definitely hit some rough spots. It's still a very interesting attempt!
+It tried really hard but definitely hit some rough spots, but still a very interesting attempt with some great results! It ran for a couple hours and used $2.68 of OpenAI's GPT-3.5 model.
 
 All the action is the [activity.log](activity.log) file, and all the other files are the ones it created during the run.  The most complete story bits are in sentient_ai_story.txt and I've copied that into this readme below verbatim (some repetition and all, only changed some formatting).
 
